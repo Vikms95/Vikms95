@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Victor, aspiring web developer based in Barcelona,Spain.
+### Hi there 👋 I'm Victor, an aspiring web developer based in Barcelona, Spain.
 
 <h3 align="left"> - Languages -</h3>
 <p align="left"> 
