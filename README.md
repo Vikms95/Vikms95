@@ -12,6 +12,4 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikms95&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Vikms95" /></p>
 
-
-
 ![Vikms95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikms95&show_icons=true&theme=tokyonight)
