@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Victor, a self-taught web-developer currently learning JavaScript
+### Hi there 👋 I'm Victor, aspiring web developer based in Barcelona,Spain.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
