@@ -6,7 +6,7 @@
 <ol>
    <li> doing the Intermediate HTML/CSS section learning tools like forms, CSS grid and preprocessors, to later apply them to my Todo-List project</li>
    <li> reading through 'YDKJS: Types and Grammar' book</li>
-   <li> learning on how to review other's code by helping others with their questions on the Odin's discord </li>
+   <li> learning on how to review other's code by helping others with their questions on the Odin's discord server </li>
 </ol>
 
 
