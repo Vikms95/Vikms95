@@ -5,7 +5,7 @@
 <h3 align="center"> :books: currently ... </h3>
 <ol>
    <li> doing the Intermediate HTML/CSS section learning tools like forms, CSS grid and preprocessors, to later apply them to my Todo-List project</li>
-   <li> reading through 'JS: Clean Code' book, 'Think Like a Programmer</li>
+   <li> reading through 'JS: Clean Code', 'Think Like a Programmer'</li>
    <li> learning on how to review other's code by helping others with their questions on the Odin's discord server </li>
 </ol>
 
