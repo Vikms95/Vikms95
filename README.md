@@ -4,9 +4,9 @@
 
 <h3 align="center"> :books: currently ... </h3>
 <ol>
-   <li> doing the Intermediate HTML/CSS section learning tools like forms, CSS grid and preprocessors, to later apply them to my Todo-List project</li>
-   <li> reading through 'JS: Clean Code', 'Think Like a Programmer'</li>
-   <li> learning on how to review other's code by helping others with their questions on the Odin's discord server </li>
+   <li> doing the Battleship project to get started with TDD and improving clean code practices </li>
+   <li> reading through 'POODR', 'Clean Code jS'</li>
+   <li> learning on how to review other's code by helping others with their questions on the Odin's discord server, while also using the Chrome debugger to learn its usage </li>
 </ol>
 
 
