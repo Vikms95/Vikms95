@@ -19,7 +19,7 @@
 <h3 align="center"> - Planning to learn - </h3>  
  
 <p align="center"> 
- <img src="https://styled-components.com/atom.png" alt="sc" />  
+ <img src="https://styled-components.com/atom.png" alt="sc" width="40" height="40"/>  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://res.cloudinary.com/rammina/image/upload/v1632570930/pngegg_prghqk.png" alt="SCSS logo" title="SCSS" width="48" height="48" />  <a href="https://firebase.google.com/" target="_blank"> <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="40"
