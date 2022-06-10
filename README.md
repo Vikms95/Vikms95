@@ -1,4 +1,4 @@
-<h3 align="center"> Hello world 👋 I'm Victor, an aspiring web developer based in Barcelona, Spain.</h3>
+<h3 align="center"> Hello world 👋 I'm Victor, a web developer based in Barcelona, Spain.</h3>
 
 
 
@@ -23,7 +23,12 @@
         width="40"
         height="40"
         alt="Redux"
-      /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="48" height="48"/> </a>   <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js Logo" title="Node.js" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" alt="express" width="40" height="40"/>
+      /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="48" height="48"/> </a>   <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js Logo" title="Node.js" width="48" height="48" /> <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="40"
+        height="40"
+        alt="PostgreSQL"
+      /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" alt="express" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40" height="40"/>
    
 <p align="center">
