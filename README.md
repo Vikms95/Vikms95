@@ -6,7 +6,7 @@
 <ol>
    <li> learning React! </li>
    <li> reading through 'JS Design PAtterns' and 'Clean Code jS'</li>
-   <li> thinking on what to do in my final JS project - for now Reddit or Linkdn clones are my best bet </li>
+   <li> thinking on what to do for my final JS project - for now Reddit or Linkdn clones are my best bet </li>
 </ol>
 
 
