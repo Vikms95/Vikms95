@@ -6,7 +6,7 @@
 <ol>
    <li> learning React! </li>
    <li> reading through 'JS Design PAtterns' and 'Clean Code jS'</li>
-   <li> learning on how to review other's code by helping others with their questions on the Odin's discord server, while also using the Chrome debugger to learn its usage </li>
+   <li> thinking on what to do in my final JS project - for now Reddit or Linkdn clones are my best bet </li>
 </ol>
 
 
