@@ -32,10 +32,10 @@
       /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" alt="express" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40" height="40"/>
    
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img title="Github Stats" alt="1" src="https://github-readme-stats-black-pi.vercel.app/api?username=Vikms95&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  </a>
+  </a> -->
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img title="Github Stats" alt="1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikms95&show_icons=true&theme=tokyonight&layout=compact&hide=html,css,shell&langs_count=8"/>
