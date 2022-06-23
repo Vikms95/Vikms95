@@ -4,9 +4,8 @@
 
 <h3 align="center"> :books: currently ... </h3>
 <ol>
-   <li> learning React! </li>
+   <li> learning React and TypeScript! </li>
    <li> reading through 'JS Design Patterns' and 'Clean Code JS'</li>
-   <li> thinking on what to do for my final JS project - for now Reddit or Linkdn clones are my best bet </li>
 </ol>
 
 
