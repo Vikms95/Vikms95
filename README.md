@@ -6,6 +6,7 @@
 <ol>
    <li> learning React and TypeScript! </li>
    <li> reading through 'JS Design Patterns' and 'Clean Code JS'</li>
+   <li> practicing Git real-life usage (PR and merge)'</li>
 </ol>
 
 <!-- <h3> :keyboard: my latest projects ...</h3>
