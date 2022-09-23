@@ -1,5 +1,15 @@
 <h3 align="center"> Hello world 👋 I'm Victor, a web developer based in Barcelona, Spain.</h3>
 
+<h3 align="center" >
+- 𝗠𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 -
+
+  𝐒𝐇𝐀𝐑𝐄𝐃 𝐁𝐋𝐎𝐆 - https://codespot.vercel.app/
+  𝐏𝐇𝐎𝐓𝐎-𝐓𝐀𝐆𝐆𝐈𝐍𝐆 𝐆𝐀𝐌𝐄 - vikms95.github.io/react-wheres-waldo
+  𝐎𝐍𝐋𝐈𝐍𝐄 𝐒𝐇𝐎𝐏 - vikms95.github.io/react-shop-cart/
+  𝐌𝐄𝐌𝐎𝐑𝐘 𝐂𝐀𝐑𝐃 𝐆𝐀𝐌𝐄 - vikms95.github.io/react-memory-card/
+  𝐂𝐕 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑 - vikms95.github.io/react-cv-application/
+</h3>
+
 
 
 <h3 align="center"> :books: currently ... </h3>
