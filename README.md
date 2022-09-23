@@ -2,7 +2,7 @@
 
 <h3 align="center" >
   
-  <h3>💻 below is a list of some of my personal projects</h3>
+  <h3>💻 some of my personal projects I have built during this past year ... </h3>
   <ol>
     <li> 𝐒𝐇𝐀𝐑𝐄𝐃 𝐁𝐋𝐎𝐆 - <a href="https://codespot.vercel.app//"> DEMO </a> / <a href="https://github.com/jernestmyers/catch-me-at#readme">README</a></li>
     <li> 𝐏𝐇𝐎𝐓𝐎-𝐓𝐀𝐆𝐆𝐈𝐍𝐆 𝐆𝐀𝐌𝐄 - <a href="vikms95.github.io/react-wheres-waldo"> DEMO </a> / <a href="https://github.com/jernestmyers/photo-tag-game#readme">README</a></li>
