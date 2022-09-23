@@ -1,16 +1,15 @@
 <h3 align="center"> Hello world 👋 I'm Victor, a web developer based in Barcelona, Spain.</h3>
 
 <h3 align="center" >
-- 𝗠𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 -
-
-  𝐒𝐇𝐀𝐑𝐄𝐃 𝐁𝐋𝐎𝐆 - https://codespot.vercel.app/
-  𝐏𝐇𝐎𝐓𝐎-𝐓𝐀𝐆𝐆𝐈𝐍𝐆 𝐆𝐀𝐌𝐄 - vikms95.github.io/react-wheres-waldo
-  𝐎𝐍𝐋𝐈𝐍𝐄 𝐒𝐇𝐎𝐏 - vikms95.github.io/react-shop-cart/
-  𝐌𝐄𝐌𝐎𝐑𝐘 𝐂𝐀𝐑𝐃 𝐆𝐀𝐌𝐄 - vikms95.github.io/react-memory-card/
-  𝐂𝐕 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑 - vikms95.github.io/react-cv-application/
-</h3>
-
-
+  
+  <h3>💻 below is a list of some of my personal projects</h3>
+  <ol>
+    <li> 𝐒𝐇𝐀𝐑𝐄𝐃 𝐁𝐋𝐎𝐆 - <a href="https://codespot.vercel.app//"> DEMO </a> / <a href="https://github.com/jernestmyers/catch-me-at#readme">README</a></li>
+    <li> 𝐏𝐇𝐎𝐓𝐎-𝐓𝐀𝐆𝐆𝐈𝐍𝐆 𝐆𝐀𝐌𝐄 - <a href="vikms95.github.io/react-wheres-waldo"> DEMO </a> / <a href="https://github.com/jernestmyers/photo-tag-game#readme">README</a></li>
+    <li> 𝐎𝐍𝐋𝐈𝐍𝐄 𝐒𝐇𝐎𝐏 - <a href="vikms95.github.io/react-shop-cart/"> DEMO </a> / <a href="https://github.com/jernestmyers/shopping-cart#readme">README</a></li>
+    <li> 𝐌𝐄𝐌𝐎𝐑𝐘 𝐂𝐀𝐑𝐃 𝐆𝐀𝐌𝐄 - <a href="vikms95.github.io/react-memory-card"> DEMO </a> / <a href="https://github.com/jernestmyers/battleship#readme">README</a></li>
+    <li> 𝐂𝐕 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑 - <a href="vikms95.github.io/react-cv-application"> DEMO </a> / <a href="https://github.com/jernestmyers/memory-game#readme">README</a></li>
+    <li>CV builder - <a href="https://jernestmyers.github.io/cv-project/">live</a> / <a href="https://github.com/jernestmyers/cv-project#readme">README</a></li>
 
 <h3 align="center"> :books: currently ... </h3>
 <ol>
