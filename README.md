@@ -4,7 +4,7 @@
   
   <h3 align="center" > 🚩💻 some of my personal projects I have built during my learning process ... </h3>
   <ul align="center" list-style="none">
-    <li> 𝐒𝐇𝐀𝐑𝐄𝐃 𝐁𝐋𝐎𝐆 - <a href="https://codespot.vercel.app//"> DEMO </a> / <a href="https://github.com/Vikms95/blog-api#readme">README</a></li>
+    <li list-style="none"> 𝐒𝐇𝐀𝐑𝐄𝐃 𝐁𝐋𝐎𝐆 - <a href="https://codespot.vercel.app//"> DEMO </a> / <a href="https://github.com/Vikms95/blog-api#readme">README</a></li>
     <li> 𝐏𝐇𝐎𝐓𝐎-𝐓𝐀𝐆𝐆𝐈𝐍𝐆 𝐆𝐀𝐌𝐄 - <a href="vikms95.github.io/react-wheres-waldo"> DEMO </a> / <a href="https://github.com/Vikms95/react-wheres-waldo#readme">README</a></li>
     <li> 𝐎𝐍𝐋𝐈𝐍𝐄 𝐒𝐇𝐎𝐏 - <a href="vikms95.github.io/react-shop-cart/"> DEMO </a> / <a href="https://github.com/Vikms95/react-shop-cart#readme">README</a></li>
     <li> 𝐌𝐄𝐌𝐎𝐑𝐘 𝐂𝐀𝐑𝐃 𝐆𝐀𝐌𝐄 - <a href="vikms95.github.io/react-memory-card"> DEMO </a> / <a href="https://github.com/Vikms95/react-memory-card#readme">README</a></li>
