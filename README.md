@@ -9,8 +9,7 @@
     <li> 𝐎𝐍𝐋𝐈𝐍𝐄 𝐒𝐇𝐎𝐏 - <a href="vikms95.github.io/react-shop-cart/"> DEMO </a> / <a href="https://github.com/jernestmyers/shopping-cart#readme">README</a></li>
     <li> 𝐌𝐄𝐌𝐎𝐑𝐘 𝐂𝐀𝐑𝐃 𝐆𝐀𝐌𝐄 - <a href="vikms95.github.io/react-memory-card"> DEMO </a> / <a href="https://github.com/jernestmyers/battleship#readme">README</a></li>
     <li> 𝐂𝐕 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑 - <a href="vikms95.github.io/react-cv-application"> DEMO </a> / <a href="https://github.com/jernestmyers/memory-game#readme">README</a></li>
-    <li>CV builder - <a href="https://jernestmyers.github.io/cv-project/">live</a> / <a href="https://github.com/jernestmyers/cv-project#readme">README</a></li>
-
+    
 <h3 align="center"> :books: currently ... </h3>
 <ol>
    <li> learning React Custom Hooks, React composition pattern, Reactstrap, Jest mocking and TypeScript! </li>
