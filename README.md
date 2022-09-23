@@ -24,7 +24,7 @@
 <a href="https://jestjs.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="48" height="48"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js Logo" title="Node.js" width="48" height="48" />  <img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" alt="express" width="40" height="40"/>  <img src="https://res.cloudinary.com/rammina/image/upload/v1632570930/pngegg_prghqk.png" alt="SCSS logo" title="SCSS" width="48" height="48" />  <img src="https://styled-components.com/atom.png" alt="sc" width="40" height="40"/>   </p> 
  
 <h3 align="center"> - Planning to learn - </h3> 
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>  <a href="https://firebase.google.com/" target="_blank"> <img
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>  <a href="https://firebase.google.com/" target="_blank"> <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="40"
         height="40"
