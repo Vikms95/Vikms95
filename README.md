@@ -12,7 +12,7 @@
     
 <h3 align="center" list-style="none"> :books: currently ... </h3>
 <div>
-   <div> learning React Custom Hooks, React composition pattern, Reactstrap, Jest mocking and TypeScript! </div>
+   <div> learning Three.js, Redux, Reactstrap, Jest mocking and TypeScript! </div>
    <div> reading through 'JS Design Patterns' and 'The Pragmatic Programmer'</div>
 </div>
 
