@@ -40,7 +40,7 @@
         height="40"
         alt="PostgreSQL"
       /> 
-<img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" alt="c" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="c" width="40" height="40"/>
    
 <!-- <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
