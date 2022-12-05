@@ -25,21 +25,19 @@
         height="40"
         alt="Redux"
       />
+  </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"width="48"height="48"alt="Npm"/> <a href="https://webpack.js.org" target="_blank"> <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" alt="webpack" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> <img src="https://testing-library.com/img/octopus-64x64.png" height="40" width="40" /> <a href="https://reactjs.org/" target="_blank"> <img alt="Terminal" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="ubuntu" width="48" height="48"/> <img alt="Visual Studio Code" width="35px" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /
+<a href="https://jestjs.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="48" height="48"/> </a> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-file-2051899-1730870.png" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js Logo" title="Node.js" width="48" height="48" />  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="50" height="40"/> </p> 
+ 
+<h3 align="center"> - Planning to learn - </h3> 
+<p align="center"> 
   <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png"
         width="40"
         height="40"
         alt="Redux"
-      /></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"width="48"height="48"alt="Npm"/> <a href="https://webpack.js.org" target="_blank"> <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" alt="webpack" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> <img src="https://testing-library.com/img/octopus-64x64.png" height="40" width="40" /> <a href="https://reactjs.org/" target="_blank"> <img alt="Terminal" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="ubuntu" width="48" height="48"/> <img alt="Visual Studio Code" width="35px" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /
-<a href="https://jestjs.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="48" height="48"/> </a> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-file-2051899-1730870.png" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js Logo" title="Node.js" width="48" height="48" />  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="50" height="40"/> </p> 
- 
-<h3 align="center"> - Planning to learn - </h3> 
-<p align="center"> <a href="https://firebase.google.com/" target="_blank"> <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="40"
-        height="40"
-        alt="PostgreSQL"
-      /> 
+      />
+ <a href="https://firebase.google.com/" target="_blank"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="c" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png" alt="c" width="40" height="40"/>
    
