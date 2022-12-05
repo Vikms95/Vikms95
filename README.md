@@ -42,6 +42,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png" alt="c" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="c" width="40" height="40"/>
    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="c" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/800px-Vitejs-logo.svg.png" alt="c" width="40" height="40"/>
    
 <!-- <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
