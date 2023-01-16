@@ -47,10 +47,10 @@
    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="c" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/800px-Vitejs-logo.svg.png" alt="c" width="40" height="40"/>
    
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img title="Github Stats" alt="1" src="https://github-readme-stats-black-pi.vercel.app/api?username=Vikms95&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  </a> -->
+  </a> 
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img title="Github Stats" alt="1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikms95&show_icons=true&theme=tokyonight&layout=compact&hide=html,css,shell&langs_count=8"/>
