@@ -42,7 +42,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="c" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="c" width="40" height="40"/>
 
-   
+  <p></p>   
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img title="Github Stats" alt="1" src="https://github-readme-stats-black-pi.vercel.app/api?username=Vikms95&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
