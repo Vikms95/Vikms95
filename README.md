@@ -12,8 +12,8 @@
     
 <h3 align="center" list-style="none"> :books: currently ... </h3>
 <div>
-   <div> learning Three.js, Redux, Reactstrap, Jest mocking and TypeScript! </div>
-   <div> reading through 'JS Design Patterns' and 'The Pragmatic Programmer'</div>
+   <div> learning DSA (Dijkstra's algo with MinHeap method) and improving my testing abilities (mocking as a focus)! </div>
+  <div> looking forward to improving my Responsive Design skills, learning GraphQL, basic CD/CI with Github Actions, containers (Docker) </div>
 </div>
 
 
